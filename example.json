@@ -1,33 +1,5 @@
 [
     {
-        "name": "测试电台",
-        "musics": [
-            {
-                "name": "测试电台1",
-                "url": "http://ngcdn001.cnr.cn/live/zgzs/index.m3u8",
-                "type": "radio"
-            },
-            {
-                "name": "测试电台2",
-                "url": "https://lhttp.qtfm.cn/live/4915/64k.mp3",
-                "type": "radio"
-            }
-        ]
-    },
-    {
-        "name": "测试歌单",
-        "musics": [
-            {
-                "name": "测试歌名1",
-                "url": "http://music.163.com/song/media/outer/url?id=447925558.mp3"
-            },
-            {
-                "name": "测试歌名2",
-                "url": "https://filesamples.com/samples/audio/mp3/sample1.mp3"
-            }
-        ]
-    },
-    {
         "name": "中国广播网",
         "musics": [
             {
